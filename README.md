@@ -11,6 +11,8 @@ leveraging this data, we can gain valuable insights into market trends, consumer
 pricing strategies. We will begin our analysis by establishing the goals & objectives of what we 
 want to achieve from looking at this dataset.
 
+### This repository contains the finished report in pdf format, as well as the cleaned spreadsheet of the data.
+
 ### Original data can be found here: https://data.world/datafiniti/electronic-products-and-pricing-data
 
 ### Final dashboard can be accessed with this link: https://lookerstudio.google.com/reporting/0d5f0d3d-d549-4a60-8529-1483e9091721/page/p_autz0f06od
